@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 Add your OPENROUTER_API_KEY to the .env file:
 
-# Example usage taken
+### Example usage taken
 repo_url = "https://github.com/7rashhi/chatbot" 
