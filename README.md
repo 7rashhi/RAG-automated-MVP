@@ -3,6 +3,7 @@
 ## Intelligent Code Review Assistant (CLI + Jupyter)
 
 This project is an **AI-powered Code Review Assistant** that:
+
 ✅ Retrieves similar code from local project files & `searchcode.com`  
 ✅ Uses **OpenRouter AI** (`Dolphin-3 Mistral`) to generate review feedback  
 ✅ Works via **CLI** (`cli.py`) or **Jupyter Notebook** (`review_ai.ipynb`)  
