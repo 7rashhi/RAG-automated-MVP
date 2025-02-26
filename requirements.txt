@@ -1,0 +1,9 @@
+
+openai>=1.0.0
+faiss-cpu
+chromadb
+sentence-transformers
+requests
+gitpython
+jupyter
+argparse
