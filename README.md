@@ -10,7 +10,7 @@ This project is an **AI-powered Code Review Assistant** that:
 
 ---
 
-## 🚀 Features
+##  Features
 ✔ **Retrieves code snippets** (local DB or searchcode.com)  
 ✔ **AI-powered review** (OpenRouter Dolphin-3 Mistral)  
 ✔ **CLI & Jupyter Notebook support**  
